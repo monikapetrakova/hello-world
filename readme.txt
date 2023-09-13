@@ -1,2 +1,2 @@
 Hello!
-It is me, Monika.
+It is me, Monika. Bye bye.
